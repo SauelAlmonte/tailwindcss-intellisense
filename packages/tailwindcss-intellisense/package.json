@@ -200,7 +200,7 @@
     "mitt": "^1.2.0",
     "normalize-path": "^3.0.0",
     "pkg-up": "^3.1.0",
-    "postcss": "^7.0.27",
+    "postcss": "^8.4.31",
     "postcss-selector-parser": "^6.0.2",
     "resolve-from": "^5.0.0",
     "rimraf": "^3.0.2",
